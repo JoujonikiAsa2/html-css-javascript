@@ -1,4 +1,9 @@
-﻿# Responsive Navbar
+﻿
+# Content Alignment
+
+<img src="./assets/content-alignemnt.png">
+
+# Responsive Navbar
 
 **Laptop screen**
 <img src="./assets/full-width.png">
